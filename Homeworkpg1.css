@@ -1,0 +1,117 @@
+#h1 {
+    /* float:left; */
+    color: #4aaaa5;
+    display: block;
+    width: 100%;
+    text-align: left
+
+}
+
+
+#heading {
+ background: #4aaaa5;
+ width: 33%;
+ float: left; 
+ margin: 12px;
+ text-align: center;
+ font-family: 'Georgia';
+ font-size: 30px;
+ color: white;
+ padding-right: 15px;
+ padding-left: 15px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ position: absolute;
+}
+
+#heading2 {
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 59px;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: grey;
+    width: 93%;
+}
+
+
+  p {
+    font-family: 'Rubik', sans-serif;
+      color: grey;
+  
+  }
+  
+
+#box {
+     max-height: 960px;
+    margin-top: -13px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 23px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: white;
+    /* border: 1px; */
+    width: 960px;
+    height: 460px;
+    margin: auto;
+    
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: small;
+    background: gray;
+    padding: 2em;
+    clear: both;
+}
+
+
+.LB1 {
+    background: purple
+}
+
+#headpic {
+    width: 17%;
+    height: 35%;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+#Blueline {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: -11px;
+    padding-bottom: -16px;
+    max-height: 960px;
+    margin-top: -13px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    margin-right: 5px; 
+    width: 95%;
+    height: -7%;   
+}
+
+#Links {
+    padding-right: 23px;
+    padding-left: 15px;
+    padding-top: 39px;
+    padding-bottom: 2px;
+    width: 22%;
+    float: right;
+    color: grey;
+    font-family: 'Rubik', sans-serif;
+}
